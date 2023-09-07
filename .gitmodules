@@ -1,0 +1,3 @@
+[submodule "Assets/Tiles/Types"]
+	path = Assets/Tiles/Types
+	url = https://github.com/kamieniarzadam/unity-tile-base-types-utils
